@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Soundmix
+        psr4_prefix: Soundmix
+        src_path: app

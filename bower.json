@@ -1,0 +1,22 @@
+{
+  "name": "soundmix",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Pepijn Senders <p.senders92@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
